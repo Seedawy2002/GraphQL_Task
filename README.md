@@ -17,9 +17,11 @@
 
 2. **Configured GraphQL in Django**:
    - Added `graphene_django` to `INSTALLED_APPS` in `settings.py`:
+     
      ```python
      INSTALLED_APPS += ['graphene_django']
      ```
+     
    - Configured the schema:
      ```python
      GRAPHENE = {
