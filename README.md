@@ -38,7 +38,7 @@
      ```
 
 3. **Added `schema.py`**:
-   - Implemented the necessary queries and mutations in the `schema.py` file.
+   - Implemented the necessary queries and mutations in the `kpi_project/kpi/schema.py` file.
 
 4. **Started the Django Server**:
    ```bash
