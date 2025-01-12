@@ -119,4 +119,4 @@ mutation {
 
 To demonstrate the functionality of the new GraphQL API, you can watch the following video:
 
-[**Watch the Testing Demo Video**](#)
+[**Watch the Testing Demo Video**](https://drive.google.com/file/d/1WbtZIz-UwTUUl2ip6QcpAr3xA55jokC7/view?usp=sharing)
